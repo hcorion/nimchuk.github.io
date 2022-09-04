@@ -1,0 +1,4 @@
+baseURL = 'https://nimchuk.ca/'
+languageCode = 'en-us'
+title = 'Nimchuk'
+theme = "hugo-theme-massively"
