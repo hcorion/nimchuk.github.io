@@ -1,3 +1,5 @@
 [submodule "themes/ananke"]
 	path = themes/hugo-theme-massively
 	url = git@github.com:curtiscde/hugo-theme-massively.git
+[submodule "themes/hugo-theme-massively"]
+	url = git@github.com:hcorion/hugo-theme-massively.git
