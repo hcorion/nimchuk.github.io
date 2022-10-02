@@ -1,7 +1,7 @@
 +++
 title = 'The origin of Nimchuk'
 slug = 'origin'
-tags = ["nimchuk", "nimchuck", "origin", "etymology", "surname", "family name", "history"]
+<!--tags = ["nimchuk", "nimchuck", "origin", "etymology", "surname", "family name", "history"]-->
 description = 'A brief history of the Nimchuk surname'
 disableComments = true
 +++
@@ -12,4 +12,4 @@ This explains the first part of Nimchuk, but you may be wondering about what the
 
 There are some variations of Nimchuk you may see like Nimchuck, Nymchuk, Nimchyk, Nemchuk or other such variations. These names all have the same origin but the difference is that when they moved to an English speaking country, they translated the original Ukrainian name, Німчук, slightly differently.
 
-This way of denoting people of German origin was very common amound slavic countries, and other last names from different countries have similar origins.Some examples include the Russian name Nemchinov (Немчинов in Russian) and the the Polish last name Niemiec.
+This way of denoting people of German origin was very common amound slavic countries, and other last names from different countries have similar origins. Some examples include the Russian name Nemchinov (Немчинов in Russian) and the the Polish last name Niemiec.
