@@ -1,7 +1,6 @@
 +++
 title = 'The origin of Nimchuk'
 slug = 'origin'
-<!--tags = ["nimchuk", "nimchuck", "origin", "etymology", "surname", "family name", "history"]-->
 description = 'A brief history of the Nimchuk surname'
 disableComments = true
 +++
